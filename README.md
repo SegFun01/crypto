@@ -8,8 +8,6 @@ Los token disponibles son:
 * SFGT 
 
 <br>
-
-Será usado como token de juego y experimentación<b>
-<br>
+<hr>
 ccamacho 2022 <br>
 Última actualización: Ene-2025<br>
